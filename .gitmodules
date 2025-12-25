@@ -10,3 +10,6 @@
 [submodule "STM32-BoardGreenLedBlink"]
 	path = STM32-BoardGreenLedBlink
 	url = git@github.com:deepanshutanwar/STM32-BoardGreenLedBlink.git
+[submodule "STM32-BoardGreenLedOn_WithBitwiseShiftOperator"]
+	path = STM32-BoardGreenLedOn_WithBitwiseShiftOperator
+	url = git@github.com:deepanshutanwar/STM32-BoardGreenLedOn_WithBitwiseShiftOperator.git
