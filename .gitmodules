@@ -13,3 +13,6 @@
 [submodule "STM32-BoardGreenLedOn_WithBitwiseShiftOperator"]
 	path = STM32-BoardGreenLedOn_WithBitwiseShiftOperator
 	url = git@github.com:deepanshutanwar/STM32-BoardGreenLedOn_WithBitwiseShiftOperator.git
+[submodule "STM32-BoardGreenLedOn_WithoutBitwiseShiftOperator"]
+	path = STM32-BoardGreenLedOn_WithoutBitwiseShiftOperator
+	url = git@github.com:deepanshutanwar/STM32-BoardGreenLedOn_WithoutBitwiseShiftOperator.git
