@@ -4,3 +4,6 @@
 [submodule "STM32_4x4_Keypad"]
 	path = STM32_4x4_Keypad
 	url = git@github.com:deepanshutanwar/STM32_4x4_Keypad.git
+[submodule "STM32-PinRead"]
+	path = STM32-PinRead
+	url = git@github.com:deepanshutanwar/STM32-PinRead.git
